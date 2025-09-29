@@ -54,7 +54,7 @@ msgid "Only packages such as base, base-devel, linux, linux-firmware, efibootmgr
 msgstr "Seuls les paquets tels que base, base-devel, linux, linux-firmware, efibootmgr et les paquets de profil optionnels sont installés."
 
 msgid "If you desire a web browser, such as firefox or chromium, you may specify it in the following prompt."
-msgstr "Si vous désirez un navigateur Web, tel que firefox ou chrome, vous pouvez le spécifier dans l'invite suivante."
+msgstr "Si vous désirez un navigateur Web, tel que Firefox ou Chromium, vous pouvez le spécifier dans l'invite suivante."
 
 msgid "Write additional packages to install (space separated, leave blank to skip): "
 msgstr "Saisir les paquets supplémentaires à installer (séparés par des espaces, vide pour ignorer) : "
